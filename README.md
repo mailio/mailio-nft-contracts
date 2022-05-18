@@ -1,4 +1,6 @@
-# MAilio NFT (ERC 721) Contract
+# Mailio NFT (ERC 721) Contract
+![https://discord.gg/hXjFS2zWra](https://img.shields.io/static/v1?label=discord&message=developers&color=green)
+![GitHub issues](https://img.shields.io/github/issues/mailio/mailio-nft-bridge)
 
 This is blockchain (Polygon) ERC-721 upgreadable contract for `Attestation of Consuming Mailio Content`. 
 
