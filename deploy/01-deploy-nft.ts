@@ -24,4 +24,4 @@ const deployMailioNFT: DeployFunction = async function (hre: HardhatRuntimeEnvir
 };
 
 export default deployMailioNFT;
-deployMailioNFT.tags = ['MailioNFT'];
+// deployMailioNFT.tags = ['MailioNFT'];

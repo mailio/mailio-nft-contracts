@@ -24,7 +24,7 @@ const config: HardhatUserConfig = {
             accounts: [`${process.env.PRIVATE_KEY}`],
         },
         matic: {
-            url: "https://rpc-mumbai.maticvigil.com",
+            url: `https://polygon-mainnet.g.alchemy.com/v2/${process.env.MATIC_ALCHEMY_API_KEY}`,
             accounts: [`${process.env.PRIVATE_KEY}`],
         }
     },
